@@ -27,6 +27,17 @@ h1{
     margin: 8px auto;
 }
 .container{
-    color: aqua;
-    background: linear-gradient
+    background-color: aqua; 
+}
+#tag{
+    width: 50px;
+}
+#text{
+    color: white;
+}
+#list{
+    background-color: coral;
+}
+#list-2{
+    background-color: palegreen;
 }
